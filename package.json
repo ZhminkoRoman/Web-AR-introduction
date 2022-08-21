@@ -1,0 +1,9 @@
+{
+  "name": "Web-AR-introduction",
+  "version": "1.0.0",
+  "description": "Learning of AR",
+  "main": "index.js",
+  "repository": "https://github.com/ZhminkoRoman/Web-AR-introduction",
+  "author": "Roman Zhminko",
+  "license": "MIT"
+}
